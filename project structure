@@ -1,0 +1,8 @@
+german-legal-summarizer/
+├── train.py              # Fine-tuning script
+├── inference.py          # Inference and summarization
+├── app.py               # Gradio web interface
+├── download_model.py    # Download pre-trained weights
+├── data/                # Training data and preparation scripts
+├── models/              # Model configurations
+└── tests/               # Unit tests
