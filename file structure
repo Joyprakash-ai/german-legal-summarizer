@@ -1,0 +1,13 @@
+german-legal-summarizer/
+├── train.py
+├── inference.py
+├── app.py
+├── requirements.txt
+├── README.md
+├── CONTRIBUTING.md
+├── LICENSE
+├── data/
+│   ├── sample_dataset.jsonl
+│   └── prepare_data.py
+└── models/
+    └── config.json
