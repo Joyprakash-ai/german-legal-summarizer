@@ -1,2 +1,40 @@
  Contributing
 We welcome contributions! See CONTRIBUTING.md for guidelines.
+
+# Contributing to German Legal Summarizer
+
+Welcome! This project aims to make German legal documents more accessible through AI summarization. We welcome contributions from developers, legal professionals, and AI enthusiasts.
+
+## Contribution Areas
+
+### 1. Improving Model Performance
+- Add more training data (German legal documents with summaries)
+- Experiment with different base models
+- Implement better preprocessing for legal texts
+- Add support for more document types (laws, court decisions, etc.)
+
+### 2. Expanding Language Support
+- Add support for other languages (French, Spanish, etc.)
+- Improve English summarization quality
+- Add translation capabilities
+
+### 3. Enhancing Features
+- Add document structure analysis
+- Implement key clause extraction
+- Add risk assessment features
+- Create API for integration with legal software
+
+### 4. Improving Usability
+- Better web interface
+- Batch processing capabilities
+- Integration with cloud storage
+- Mobile app development
+
+## Getting Started
+
+### Development Environment
+1. Fork and clone the repository
+2. Set up Python 3.10+ environment
+3. Install dependencies:
+   ```bash
+   pip install -r requirements.txt
