@@ -1,0 +1,9 @@
+Place new training data in data/ directory
+
+Format as JSONL:
+
+{"text": "German legal text...", "summary": "Concise summary..."}
+Update data/prepare_data.py if needed
+
+Run training to update model
+
