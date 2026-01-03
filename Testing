@@ -1,0 +1,7 @@
+Run tests with:
+
+python -m pytest tests/ -v
+
+For model inference tests
+
+python test_inference.py
