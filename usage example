@@ -1,0 +1,5 @@
+# Summarize a German text file
+python inference.py --text "Der Mieter verpflichtet sich, die Miete monatlich im Voraus zu zahlen..."
+
+# Summarize a PDF document
+python inference.py --file contract.pdf --language de
