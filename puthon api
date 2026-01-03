@@ -1,0 +1,9 @@
+from summarizer import LegalSummarizer
+
+summarizer = LegalSummarizer()
+result = summarizer.summarize(
+    text="German legal text here...",
+    max_length=150,
+    language="de"  # 'de' for German, 'en' for English
+)
+print(result["summary"])
