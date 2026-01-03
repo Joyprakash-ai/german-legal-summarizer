@@ -1,0 +1,10 @@
+🛠 Tech Stack
+Transformers (Hugging Face)
+
+PyTorch / TensorFlow
+
+Gradio for UI
+
+FastAPI for REST API
+
+CUDA for GPU acceleration
