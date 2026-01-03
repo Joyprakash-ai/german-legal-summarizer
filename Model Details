@@ -1,0 +1,8 @@
+ Model Details
+Base Model: facebook/bart-large-cnn (multilingual variant)
+
+Fine-Tuning: LoRA (Low-Rank Adaptation) for efficient training
+
+Training Data: 10,000+ German legal document pairs (source → summary)
+
+Languages: German (primary), English (secondary)
