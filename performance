@@ -1,0 +1,9 @@
+Performance
+
+ROUGE-1: 0.68
+
+ROUGE-2: 0.52
+
+ROUGE-L: 0.64
+
+Inference Time: ~2 seconds/page (on GPU)
